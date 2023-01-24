@@ -5,19 +5,19 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 	let user = global.db.data.users[m.sender]
 	if (user.age < 18) throw 'umur kamu belum cukup dek!';
 	try {
-		let res = await fetch(`https://api.zahwazein.xyz/downloader/xnxx?apikey=f9fccfcff1&url=${text}`)
+		let res = await fetch(`ttps://api.lolhuman.xyz/api/xnxx?apikey=Fikrii&url=${text}`)
 		if (res.status !== 200) throw 'Nice'
     let w = await res.json()
     let x = w.result
     let caption = `*${htki} xnxxdl ${htka}*
     
 *💌 title:* ${x.title}
-*🗂️ info:* ${x.info}
+*🗂️ rating:* ${x.rating}
 *📊 duration:* ${x.duration}
     `
-    conn.send2ButtonImg(m.chat, x.image, caption, author,
-'LOW', '.xnxxvid ' + x.files.low,
-'HIGH', '.xnxxvid ' + x.files.high
+    conn.send2ButtonImg(m.chat, x.thumbnail, caption, author,
+'LOW', '.xnxxvid ' + x.link.link1,
+'HIGH', '.xnxxvid ' + x.link.link2
 , m)
 	} catch (e) {
 		throw e;
