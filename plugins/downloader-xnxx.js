@@ -5,7 +5,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 	let user = global.db.data.users[m.sender]
 	if (user.age < 18) throw 'umur kamu belum cukup dek!';
 	try {
-		let res = await fetch(`ttps://api.lolhuman.xyz/api/xnxx?apikey=Fikrii&url=${text}`)
+		let res = await fetch(`https://api.lolhuman.xyz/api/xnxx?apikey=Fikrii&url=${text}`)
 		if (res.status !== 200) throw 'Nice'
     let w = await res.json()
     let x = w.result
