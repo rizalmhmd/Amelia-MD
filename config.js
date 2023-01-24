@@ -45,18 +45,18 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6283863727733', 'Amelia-MD', true],
+['6281333154367', '𝚉𝚊𝚕𝚕', true],
 ]
 global.autoketik = true //status auto mengetik (auto typing)
 global.available = true //status online (online)
 // Other
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727740'
-global.nameown = 'PutraModz'
-global.nomorown = '6283863727733'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
+global.nomorbot = '6281327238906'
+global.nameown = '𝚉𝚊𝚕𝚕'
+global.nomorown = '6281333154367'
+global.nomorown1 = '6281333154367'
+global.nomorown2 = '6281392128956'
 global.nomorwa = '0'
 global.limitawal = {
 
@@ -69,42 +69,42 @@ global.limitawal = {
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'PutraModz' //ganti aja cuyyy
-global.namebot = '​Amelia-Md' //nama bot luh
-global.wm = '© Amelia-Md' //ganti aja
+global.author = '𝚉𝚊𝚕𝚕' //ganti aja cuyyy
+global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕' //nama bot luh
+global.wm = '© 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕' //ganti aja
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg' //bebas
-global.wm = 'Amelia-Md ' //wm nyaa kocak
+global.wm = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 ' //wm nyaa kocak
 global.watermark = wm //bebas
-global.wm2 = 'PutraModz' //ganti ajaa 
+global.wm2 = '𝚉𝚊𝚕𝚕' //ganti ajaa 
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`//ga usah dehhh 
 global.bottime = `T I M E : ${wktuwib}` //ini juga ga usah 
-global.titlebot = `Amelia-Md | PutraModz` //gantu aja
-global.stickpack = 'Amelia-Modz' //ganti 
-global.stickauth = `© Amelia-Md` //gantii 
+global.titlebot = `𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 | 𝚉𝚊𝚕𝚕` //ganti aja
+global.stickpack = '𝚉𝚊𝚕𝚕' //ganti 
+global.stickauth = `© 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕` //gantii 
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Amelia Putri septiany' //ganti 
-global.nameown2 = 'PutraModz' //ganti 
+global.nameown1= '𝚉𝚊𝚕𝚕' //ganti 
+global.nameown2 = 'ROZZ' //ganti 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Tunggu Sebentar Kak...'
 global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi link gc luh
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/l4c1f2r' //ganti jadi ig mu
-global.sgh = 'https://github.com/Lucife-Putra' //github
+global.sig = 'https://instagram.com/zallall02' //ganti jadi ig mu
+global.sgh = 'https://github.com/rizalmhmd' //github
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
 global.sdc = '-' //discord klo ga punya ga usah biarin aja
 global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = 'Chat Owner !!'
-global.povo = '-'
-global.pgopay = 'Chat owner !!'
+global.pdana = '081333154367'
+global.povo = '081333154367'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = 'Chat owner !!'
-global.ppulsa2 = 'Chat owner !!'
+global.ppulsa = '081333154367'
+global.ppulsa2 = '081327238906'
 global.psaweria = 'https://telegra.ph/file/98338a583efeb3d34a70b.jpg'
 
 //bebas cuyyy yg atas mahh 
@@ -534,9 +534,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = '?????????'
-global.urlnya = "https://www.instagram.com/l4c1f2r"
+global.urlnya = "https://www.instagram.com/zallzall02"
 global.dtc = '???? ?????'
-global.phn = '0822 1472-9677'
+global.phn = '0813 3315-4367'
 
 
 //?? 肓??????帕 ? JNGN DI UBAH ? 帕??????肓 ??
