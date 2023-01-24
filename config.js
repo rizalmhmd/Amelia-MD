@@ -95,7 +95,7 @@ global.lynk = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'//ganti jadi lin
 global.sig = 'https://instagram.com/zallall02' //ganti jadi ig mu
 global.sgh = 'https://github.com/rizalmhmd' //github
 global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff' //group whatsapp
-global.sdc = '-' //discord klo ga punya ga usah biarin aja
+global.sdc = 'https://discord.gg/4HvezMAw' //discord klo ga punya ga usah biarin aja
 global.snh = 'https://youtube.com/@Putra_Modz_' //yt klo punya 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
