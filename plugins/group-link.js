@@ -14,6 +14,7 @@ let handler = async (m, { conn, args }) => {
 handler.help = ['linkgroup']
 handler.tags = ['group']
 handler.command = /^link(gro?up)?$/i
+handler.admin = true
 
 
 export default handler
