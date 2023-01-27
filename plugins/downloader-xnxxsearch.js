@@ -28,6 +28,6 @@ handler.command = /^xnxx(s?earch)?$/i
 
 handler.register = true
 handler.premium = true
-handler.private = true
+handler.private = false
 
 export default handler
